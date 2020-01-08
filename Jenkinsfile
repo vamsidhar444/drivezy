@@ -11,7 +11,7 @@ node {
 
          // bat 'mvn install'
 	       
-	        'mvn package'
+	     bat   'mvn package'
        }
 	   
       
