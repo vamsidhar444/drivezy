@@ -11,7 +11,7 @@ node {
 
          // bat 'mvn install'
 	       
-	       sh 'mvn clean'
+	        'mvn package'
        }
 	   
       
