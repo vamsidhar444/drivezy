@@ -147,6 +147,10 @@
                 <id>jacoco-site</id>
                 <phase>verify</phase>
                 <goals>
+	           <goal>enforce-versions</goal>
+                   <goal>retarget-deploy</goal>
+                   <goal>tag-master</goal>
+                   <goal>promote-master</goal>
                   <goal>report</goal>
                 </goals>
               </execution>
