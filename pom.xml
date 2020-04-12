@@ -251,7 +251,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-52-221-207-159.ap-southeast-1.compute.amazonaws.com:8081/repository/love-snap/</url>
+	      <url>http://ec2-13-250-121-42.ap-southeast-1.compute.amazonaws.com:8081//</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
